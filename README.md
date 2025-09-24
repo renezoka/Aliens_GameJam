@@ -1,6 +1,6 @@
 # Aliens_GameJam
 - Nier
-- Fontinele
+- Fontenele
 - Renepimba
 - Lou
 - Asa
